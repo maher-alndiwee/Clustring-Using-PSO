@@ -1,1 +1,3 @@
 # Clustring-Using-PSO
+	run mainFile_all.m
+	the results file will be saved as 'PSO-name of dataset'
